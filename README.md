@@ -13,3 +13,13 @@
 | HTML       |
 | CSS        | 
 | JavaScript | 
+
+## 成果展示
+### RWD設計
+![01](https://github.com/shan-233/SeeTaiwan/assets/106702800/584ea472-bdcb-4f96-8a96-01be21788034)
+
+### 漢堡選單
+![02](https://github.com/shan-233/SeeTaiwan/assets/106702800/be9d4acc-02df-4f80-b498-5c96d141998a)
+
+### 風景畫面
+![03](https://github.com/shan-233/SeeTaiwan/assets/106702800/ff014124-349d-4996-ad1f-2e31b9833abe)
